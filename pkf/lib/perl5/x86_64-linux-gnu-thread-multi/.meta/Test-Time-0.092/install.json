@@ -1,0 +1,1 @@
+{"pathname":"A/AN/ANATOFUZ/Test-Time-0.092.tar.gz","version":"0.092","dist":"Test-Time-0.092","target":"Test::Time","provides":{"Test::Time":{"version":"0.092","file":"lib/Test/Time.pm"}},"name":"Test::Time"}
