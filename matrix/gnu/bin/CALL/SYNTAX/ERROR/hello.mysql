@@ -1,0 +1,12 @@
+DELIMITER $$
+CREATE PROCEDURE nome_process()
+BEGIN
+     /*BODY DO PROCESS*/
+END $$
+DELIMITER ;
+
+This part:
+
+END $$
+DELIMITER ;
+:)
