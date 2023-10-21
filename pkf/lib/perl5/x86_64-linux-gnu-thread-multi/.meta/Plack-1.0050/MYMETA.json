@@ -74,7 +74,7 @@
             "LWP::UserAgent" : "5.814",
             "Log::Dispatch" : "2.25",
             "Log::Log4perl" : "0",
-            "Module::Refresh" : "0"
+            "Module::Continue" : "0"
          }
       },
       "test" : {

@@ -50,7 +50,7 @@
 /home/admin/Trainings/guile-pkf/pkf/lib/perl5/Plack/Middleware/NullLogger.pm
 /home/admin/Trainings/guile-pkf/pkf/lib/perl5/Plack/Middleware/RearrangeHeaders.pm
 /home/admin/Trainings/guile-pkf/pkf/lib/perl5/Plack/Middleware/Recursive.pm
-/home/admin/Trainings/guile-pkf/pkf/lib/perl5/Plack/Middleware/Refresh.pm
+/home/admin/Trainings/guile-pkf/pkf/lib/perl5/Plack/Middleware/Continue.pm
 /home/admin/Trainings/guile-pkf/pkf/lib/perl5/Plack/Middleware/Runtime.pm
 /home/admin/Trainings/guile-pkf/pkf/lib/perl5/Plack/Middleware/SimpleContentFilter.pm
 /home/admin/Trainings/guile-pkf/pkf/lib/perl5/Plack/Middleware/SimpleLogger.pm

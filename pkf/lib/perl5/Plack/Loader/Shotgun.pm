@@ -81,7 +81,7 @@ application until the runtime. When a new request comes in, this forks
 a new child, compiles your code and runs the application.
 
 This should be an ultimate alternative solution when reloading with
-L<Plack::Middleware::Refresh> doesn't work, or plackup's default C<-r>
+L<Plack::Middleware::Continue> doesn't work, or plackup's default C<-r>
 filesystem watcher causes problems. I can imagine this is useful for
 applications which expects their application is only evaluated once
 (like in-file templates) or on operating systems with broken fork

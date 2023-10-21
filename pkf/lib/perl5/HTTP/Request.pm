@@ -101,7 +101,7 @@ sub uri_canonical
         return $canon if $canon eq $uri;
     }
 
-    # otherwise we need to refresh the memoized value
+    # otherwise we need to Continue the memoized value
     $self->{_uri_canonical} = $uri->canonical;
 }
 
